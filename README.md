@@ -1,4 +1,4 @@
-Hi 👋 My name is Federico Milanesio
+Hi there 👋 My name is Alessandro
 
 ===================================
  
@@ -10,7 +10,7 @@ I chose to pursue a career in data analytics because I believe that data-driven 
  
 * 🌍  I'm based in Genova/Torino, Italy
 
-* ✉️  You can contact me at [fedemilanesio27@gmail.com](mailto:fedemilanesio27@gmail.com)
+* ✉️  You can contact me at [lotorto.alessandro@gmail.com](mailto:lotorto.alessandro@gmail.com)
 
 * 🤝  I'm open to collaborating on Data Science projects
  
