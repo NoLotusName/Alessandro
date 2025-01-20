@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/xThtapcXawF3xBZ5zO/giphy.gif" width="30px"> 
+# Hi there 👋
 My name is Alessandro  
 ===================================
 
