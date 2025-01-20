@@ -1,7 +1,7 @@
-Hi there 👋 My name is Alessandro
-
+# Hi there <img src="https://media.giphy.com/media/xThtapcXawF3xBZ5zO/giphy.gif" width="30px"> 
+My name is Alessandro  
 ===================================
- 
+
 Economics & Data Science graduate
 
 --------------------
